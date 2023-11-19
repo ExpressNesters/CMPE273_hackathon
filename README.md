@@ -6,14 +6,14 @@
 - Neeharika Singh
 
 ## Architecture Diagram
-![Architecture Diagram](./architecture-diagram.png)
+![Architecture Diagram](./architecture_diagram.png)
 
 ### Link Format Write-Ups
 | Description             | Link                                                              |
 | ----------------------- | ------------------------------------------------------------------ |
 | Link Format Write-Ups   | [View Write-Ups](https://github.com/ExpressNesters/CMPE273_hackathon/blob/main/write_up.pdf) |
 
-##  Prompt and Responses - Text format
+###  Prompt and Responses - Text format
 | Description             | Link                                                              |
 | ----------------------- | ------------------------------------------------------------------ |
 | Text Format Outputs     | [View Output Files](https://github.com/ExpressNesters/CMPE273_hackathon/blob/main/outputs/text/prompt-responses-TestUser.txt) |
