@@ -22,18 +22,18 @@
 | Prompt                                            | Response                                                           |
 | ------------------------------------------------- | ------------------------------------------------------------------ |
 | Economic Sustainability Statements                | [View Response](https://github.com/ExpressNesters/CMPE273_hackathon/blob/main/outputs/screenshot/1_prompt.png) |
-| Social Sustainability Statements                  | [View Response](https://github.com/ExpressNesters/CMPE273_hackathon/blob/main/outputs/screenshot/2_prompt.png) |
-| Social Security                                   | [View Response](https://github.com/ExpressNesters/CMPE273_hackathon/blob/main/outputs/screenshot/3_prompt.png) |
-| Rural Development                                 | [View Response](https://github.com/ExpressNesters/CMPE273_hackathon/blob/main/outputs/screenshot/4_prompt.png) |
-| How Farmers benefit from the budget?              | [View Response](https://github.com/ExpressNesters/CMPE273_hackathon/blob/main/outputs/screenshot/5_prompt.png) |
-| What is economic conditions of State and Central Government? | [View Response](https://github.com/ExpressNesters/CMPE273_hackathon/blob/main/outputs/screenshot/6_prompt.png) |
-| How poor and marginalized communities benefit from budget? | [View Response](https://github.com/ExpressNesters/CMPE273_hackathon/blob/main/outputs/screenshot/7_prompt.png) |
-| What are poverty reduction strategies?            | [View Response](https://github.com/ExpressNesters/CMPE273_hackathon/blob/main/outputs/screenshot/8_prompt.png) |
-| How women and poor children benefit from Budget?  | [View Response](https://github.com/ExpressNesters/CMPE273_hackathon/blob/main/outputs/screenshot/9_prompt.png) |
-| Poverty Factors                                   | [View Response](https://github.com/ExpressNesters/CMPE273_hackathon/blob/main/outputs/screenshot/10_prompt.png) |
-| Country Balance of Payments                      | [View Response](https://github.com/ExpressNesters/CMPE273_hackathon/blob/main/outputs/screenshot/11_prompt.png) |
-| Weather & Extreme Weather Events                 | [View Response](https://github.com/ExpressNesters/CMPE273_hackathon/blob/main/outputs/screenshot/12_prompt.png) |
-| Recessions and Tariff                             | [View Response](https://github.com/ExpressNesters/CMPE273_hackathon/blob/main/outputs/screenshot/13_prompt.png) |
+| Social Sustainability Statements                  | [View Response](https://github.com/ExpressNesters/CMPE273_hackathon/blob/main/outputs/screenshot/2_Prompt.png) |
+| Social Security                                   | [View Response](https://github.com/ExpressNesters/CMPE273_hackathon/blob/main/outputs/screenshot/3_Prompt.png) |
+| Rural Development                                 | [View Response](https://github.com/ExpressNesters/CMPE273_hackathon/blob/main/outputs/screenshot/4_Prompt.png) |
+| How Farmers benefit from the budget?              | [View Response](https://github.com/ExpressNesters/CMPE273_hackathon/blob/main/outputs/screenshot/5_Prompt.png) |
+| What is economic conditions of State and Central Government? | [View Response](https://github.com/ExpressNesters/CMPE273_hackathon/blob/main/outputs/screenshot/6_Prompt.png) |
+| How poor and marginalized communities benefit from budget? | [View Response](https://github.com/ExpressNesters/CMPE273_hackathon/blob/main/outputs/screenshot/7_Prompt.png) |
+| What are poverty reduction strategies?            | [View Response](https://github.com/ExpressNesters/CMPE273_hackathon/blob/main/outputs/screenshot/8_Prompt.png) |
+| How women and poor children benefit from Budget?  | [View Response](https://github.com/ExpressNesters/CMPE273_hackathon/blob/main/outputs/screenshot/9_Prompt.png) |
+| Poverty Factors                                   | [View Response](https://github.com/ExpressNesters/CMPE273_hackathon/blob/main/outputs/screenshot/10_Prompt.png) |
+| Country Balance of Payments                      | [View Response](https://github.com/ExpressNesters/CMPE273_hackathon/blob/main/outputs/screenshot/11_Prompt.png) |
+| Weather & Extreme Weather Events                 | [View Response](https://github.com/ExpressNesters/CMPE273_hackathon/blob/main/outputs/screenshot/12_Prompt.png) |
+| Recessions and Tariff                             | [View Response](https://github.com/ExpressNesters/CMPE273_hackathon/blob/main/outputs/screenshot/13_Prompt.png) |
 ## Instructions for Running Locally
 
 
