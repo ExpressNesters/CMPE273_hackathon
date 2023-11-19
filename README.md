@@ -46,7 +46,7 @@
   - `MYSQL_URL=mysql://<username>:<password>@localhost/MER_DB`
 
 ### 2) Backend - query microservice
-- Clone the repository: `git@github.com:ExpressNesters/273_Hackathon.git`
+- Clone the repository: `https://github.com/ExpressNesters/CMPE273_hackathon.git`
 - Go to src folder: `cd backend_codebase/query_microservice/src`
 - Run command: `pip install -r requirements.txt`
 - Run command: `flask run`
