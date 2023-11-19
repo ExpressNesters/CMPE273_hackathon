@@ -1,0 +1,33 @@
+version: "3.8"
+
+services:
+  web:
+    build:
+      context: .
+      args:
+        OPENAI_KEY: ${OPENAI_KEY}
+        OPENAI_ASSISTANT: ${OPENAI_ASSISTANT}
+        DB_URL: ${DB_URL}
+
+    working_dir: /usr/src/app
+    #command: flask run
+    #volumes:
+    #  - .:/usr/src/app
+    ports:
+      - "5001:5000"
+    depends_on:
+      - db
+  db:
+    image: mysql:8.2
+    #environment:
+    #MYSQL_DATABASE: ${MYSQL_DATABASE}
+    #MYSQL_USER: ${MYSQL_USER}
+    #MYSQL_PASSWORD: ${MYSQL_PASSWORD}
+    #MYSQL_ROOT_PASSWORD: ${MYSQL_ROOT_PASSWORD}
+    ports:
+      - "3306:3306"
+    volumes:
+      - mysql-data:/var/lib/mysql
+
+volumes:
+  mysql-data:
