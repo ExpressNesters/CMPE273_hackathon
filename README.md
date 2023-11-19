@@ -12,7 +12,7 @@
 
 | Prompt                                          | Response (Text Format)                                                                     | Response (Screenshot Format)                                                               |
 | ------------------------------------------------ | ------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------ |
-| Economic Sustainability Statements               | ![Text](https://github.com/ExpressNesters/273_Hackathon/blob/main/prompt-responses/10_Prompt.png) | ![Screenshot](https://github.com/ExpressNesters/273_Hackathon/blob/main/prompt-responses/10_Prompt.png) |
+| Economic Sustainability Statements               | ![Link](https://github.com/ExpressNesters/273_Hackathon/blob/main/prompt-responses/10_Prompt.png) | ![Screenshot](https://github.com/ExpressNesters/273_Hackathon/blob/main/prompt-responses/10_Prompt.png) |
 | Social Sustainability Statements                 | ![Text](https://github.com/ExpressNesters/273_Hackathon/blob/main/prompt-responses/10_Prompt.png) | ![Screenshot](https://github.com/ExpressNesters/273_Hackathon/blob/main/prompt-responses/10_Prompt.png) |
 | Social Security                                  | ![Text](https://github.com/ExpressNesters/273_Hackathon/blob/main/prompt-responses/10_Prompt.png) | ![Screenshot](https://github.com/ExpressNesters/273_Hackathon/blob/main/prompt-responses/10_Prompt.png) |
 | Rural Development                                | ![Text](https://github.com/ExpressNesters/273_Hackathon/blob/main/prompt-responses/10_Prompt.png) | ![Screenshot](https://github.com/ExpressNesters/273_Hackathon/blob/main/prompt-responses/10_Prompt.png) |
